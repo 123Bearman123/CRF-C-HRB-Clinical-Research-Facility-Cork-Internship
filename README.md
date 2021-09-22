@@ -1,3 +1,5 @@
 # CRF-C-HRB-Clinical-Research-Facility-Cork-Internship
 -CRF-C HRB Clinical Research Facility Cork Internship -Summer 2021 -Summer 2nd Year -3projects
+
+
 I worked as a developer on three different projects and completed three courses for my internship. The team included the Director of Education at the HRB CRF-C, Dr Frances Shiely, the Instructional Designer, Mr Vincent Russell and Associate Statistician, Dr Brendan Palmer. 1. I modified the CRF-C’s website using WordPress to make it more user friendly and I added new content; this involved mapping out how we wanted the website to look and implementing these ideas. 2. I worked on a project to interface between R and Castor, a cloud-based clinical data management platform, which involved writing new code to enable this function and present it as a tidy rectangular data set. 3. I designed infographics to disseminate findings of clinical trial methodological projects to ensure easy to read and understandable patient facing documents. To complete these tasks, I took courses in RStudio, Castor and WordPress.
